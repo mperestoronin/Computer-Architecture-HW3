@@ -2,7 +2,7 @@
 ### Консольный ввод:
 ### тест № 1
 Входные даннные: 3 3 3
-![](photos/tests1.png)
-![](photos/tests2.png)
-Вывод в файл:
-![](photos/tests3.png)
+<br>![](photos/tests1.png)
+<br>![](photos/tests2.png)
+<br>Вывод в файл:
+<br>![](photos/tests3.png)
