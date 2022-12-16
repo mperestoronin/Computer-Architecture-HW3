@@ -42,7 +42,7 @@
 ### Вердикт
 В ходе проверки использовались самые разные данные, программа корректно отработала во всех случаях со всеми режимами ввода. Вывод **католога** в консоль совпадает с выводом католога в файл (как уже писалось ранее, программа дополнительно выводит лог работы перед каталогом в консоль).
 ### Тестовые файлы
-<br>тест1(https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test1output.txt)
+<br>[тест1](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test1output.txt)
 <br>тест2 [input](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test2input.txt) [output](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test2output.txt)
 <br>[тест3](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test3output.txt)
 <br>[тест4](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test4output.txt)
