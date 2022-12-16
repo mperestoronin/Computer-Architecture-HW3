@@ -46,4 +46,4 @@
 <br>[тест2](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test2output.txt)
 <br>[тест3](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test3output.txt)
 <br>[тест4](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/test4output.txt)
-[а также тест на 1000 книг (входные данные 10 10 10)](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/output.txt)
+<br>а также [тест](https://github.com/mperestoronin/Computer-Architecture-HW4/blob/main/testfiles/output.txt) на 1000 книг (входные данные 10 10 10)
